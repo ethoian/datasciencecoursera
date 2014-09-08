@@ -1,0 +1,18 @@
+.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+[Previously saved workspace restored]
+
+> help.search("install package")
+starting httpd help server ... done
+> help.start()
+If nothing happens, you should open
+‘http://127.0.0.1:17142/doc/html/index.html’ yourself
+> help.search("install package")
+> help.search("install package")
+> install.packages("KernSmooth")
